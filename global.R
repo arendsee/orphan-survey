@@ -8,7 +8,7 @@ axis.vars = c('Number of orphans'              = 'orphans',
               'Length ratio'                   = 'length.rat',
               'Standard deviation of length'   = 'sd.length')
 
-load('../data/orphan-summary.Rdat')
+load('data/orphan-summary.Rdat')
 orphan.data <- data.table(orpsum)
 orphan.data$orphans <- as.numeric(orphan.data$orphans)
 orphan.data$threshold <- as.character(orphan.data$threshold)

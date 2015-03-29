@@ -75,7 +75,7 @@ shinyServer(
                                                  labels=list(fontSize=fs))) %>%
                 scale_numeric('x', trans=xtrans, expand=0) %>%
                 scale_numeric('y', trans=ytrans, expand=0) %>%
-                set_options(width = 900, height = 600, duration = 0)
+                set_options(duration = 0)
         })
 
         vis %>% bind_shiny('mainplot')
