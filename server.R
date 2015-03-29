@@ -10,7 +10,7 @@ maketip <- function(x, dat){
            "Total proteins: <b>", s$total, "</b><br>",
            "Average orphan length: <b>", signif(s$ave.length, 3), "</b> (sd=", signif(s$sd.length, 3), ")", "<br>",
            "Length ratio (non-orphan / orphan): <b>", signif(s$length.rat, 3), "</b><br>",
-           "Distance to nearest neighbor: <b>", signif(s$mean.distance, 3), "</b> (sd=", signif(s$sd.distance, 3), ")<br>"
+           "Distance to nearest neighbor: <b>", signif(s$distance, 3), "<br>"
            )
 }
 
@@ -28,17 +28,16 @@ shinyServer(
             xlab <- names(axis.vars)[which(axis.vars == input$xvar)]
             ylab <- names(axis.vars)[which(axis.vars == input$yvar)]
 
+            # TODO find some neat solution to the log(0) problem
+            xtrans <- NULL
+            ytrans <- NULL
             if(input$xlog){
                 dat$xvar <- ifelse(dat$xvar == 0, 1, dat$xvar)
                 xtrans <- 'log'
-            } else {
-                xtrans <- NULL 
             }
             if(input$ylog){
                 dat$yvar <- ifelse(dat$yvar == 0, 1, dat$yvar)
                 ytrans <- 'log'
-            } else {
-                ytrans <- NULL
             }
 
             g <- dat %>%
@@ -75,6 +74,7 @@ shinyServer(
                                                  labels=list(fontSize=fs))) %>%
                 scale_numeric('x', trans=xtrans, expand=0) %>%
                 scale_numeric('y', trans=ytrans, expand=0) %>%
+                # set_options(width = 900, height = 600, duration = 0)
                 set_options(duration = 0)
         })
 
