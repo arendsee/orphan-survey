@@ -21,5 +21,3 @@ names(id.vars) <- id.vars
 
 threshold.vars <- unique(orphan.data$threshold)
 names(threshold.vars) <- threshold.vars
-
-dat <- data.frame()

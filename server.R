@@ -23,8 +23,11 @@ shinyServer(
             fs <- input$fontsize
             dat <- orphan.data[threshold == input$threshold & id == input$id]
             i <- which(dat$family %in% input$families)
-            dat <- dat[i, c('key', 'family', 'qtaxid', 'reference',  input$xvar, input$yvar), with=FALSE] 
-            setnames(dat, c(input$xvar, input$yvar),  c('xvar', 'yvar'))
+            dat$xvar <- dat[, c(input$xvar), with=FALSE]
+            dat$yvar <- dat[, c(input$yvar), with=FALSE]
+            dat <- dat[i, c('key', 'family', 'qtaxid', 'reference',  'xvar', 'yvar'), with=FALSE] 
+
+
             xlab <- names(axis.vars)[which(axis.vars == input$xvar)]
             ylab <- names(axis.vars)[which(axis.vars == input$yvar)]
 
@@ -74,7 +77,6 @@ shinyServer(
                                                  labels=list(fontSize=fs))) %>%
                 scale_numeric('x', trans=xtrans, expand=0) %>%
                 scale_numeric('y', trans=ytrans, expand=0) %>%
-                # set_options(width = 900, height = 600, duration = 0)
                 set_options(duration = 0)
         })
 
