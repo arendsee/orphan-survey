@@ -1,0 +1,325 @@
+"taxon_a"	"taxon_b"	"family"	"age"	"distance"	"qtaxid"	"staxid"	"N"
+"1"	"Aspergillus flavus NRRL3357"	"Aspergillus oryzae RIB40"	"Aspergillus"	"2.4"	0.150137078442102	"332952"	"510516"	13494
+"2"	"Aspergillus niger CBS 513.88"	"Aspergillus oryzae RIB40"	"Aspergillus"	"43.9"	0.659008320741528	"425011"	"510516"	14025
+"3"	"Aspergillus niger ATCC 1015"	"Aspergillus oryzae RIB40"	"Aspergillus"	"43.9"	0.5652165145205	"380704"	"510516"	10944
+"4"	"Aspergillus oryzae RIB40"	"Aspergillus flavus NRRL3357"	"Aspergillus"	"2.4"	0.0756482564801143	"510516"	"332952"	12069
+"5"	"Aspergillus oryzae RIB40"	"Aspergillus niger ATCC 1015"	"Aspergillus"	"43.9"	0.588071110715284	"510516"	"380704"	12061
+"6"	"Aspergillus oryzae RIB40"	"Aspergillus niger CBS 513.88"	"Aspergillus"	"43.9"	0.588890485582649	"510516"	"425011"	12063
+"7"	"Arabidopsis lyrata subsp. lyrata"	"Arabidopsis thaliana"	"Brassicaceae"	"5.3"	0.229542956360853	"81972"	"3702"	32047
+"8"	"Arabidopsis lyrata subsp. lyrata"	"Arabis alpina"	"Brassicaceae"	"24.0"	0.494438771315686	"81972"	"50452"	32040
+"9"	"Arabidopsis lyrata subsp. lyrata"	"Brassica rapa subsp. pekinensis"	"Brassicaceae"	"16.4"	0.393278189445166	"81972"	"51351"	32065
+"10"	"Arabis alpina"	"Arabidopsis lyrata subsp. lyrata"	"Brassicaceae"	"24.0"	0.372232859200168	"50452"	"81972"	23180
+"11"	"Arabis alpina"	"Arabidopsis thaliana"	"Brassicaceae"	"24.0"	0.358960419080593	"50452"	"3702"	23149
+"12"	"Arabidopsis thaliana"	"Arabidopsis lyrata subsp. lyrata"	"Brassicaceae"	"5.3"	0.183683562175537	"3702"	"81972"	31540
+"13"	"Arabidopsis thaliana"	"Arabis alpina"	"Brassicaceae"	"24.0"	0.447162877572739	"3702"	"50452"	31527
+"14"	"Arabidopsis thaliana"	"Brassica rapa subsp. pekinensis"	"Brassicaceae"	"16.4"	0.340904359388345	"3702"	"51351"	31520
+"15"	"Brassica rapa subsp. pekinensis"	"Arabidopsis lyrata subsp. lyrata"	"Brassicaceae"	"16.4"	0.350778698477256	"51351"	"81972"	40783
+"16"	"Brassica rapa subsp. pekinensis"	"Arabidopsis thaliana"	"Brassicaceae"	"16.4"	0.344529415854512	"51351"	"3702"	40779
+"17"	"Caenorhabditis remanei"	"Caenorhabditis brenneri"	"Caenorhabditis"	"1.0"	0.605072725539887	"31234"	"135651"	31187
+"18"	"Caenorhabditis remanei"	"Caenorhabditis briggsae"	"Caenorhabditis"	"1.0"	0.590133313418352	"31234"	"6238"	31204
+"19"	"Caenorhabditis remanei"	"Caenorhabditis elegans"	"Caenorhabditis"	"1.0"	0.613942672613231	"31234"	"6239"	31134
+"20"	"Caenorhabditis brenneri"	"Caenorhabditis briggsae"	"Caenorhabditis"	"1.0"	0.559556635285497	"135651"	"6238"	29819
+"21"	"Caenorhabditis brenneri"	"Caenorhabditis elegans"	"Caenorhabditis"	"1.0"	0.564184285933064	"135651"	"6239"	29726
+"22"	"Caenorhabditis brenneri"	"Caenorhabditis remanei"	"Caenorhabditis"	"1.0"	0.527163275742659	"135651"	"31234"	29800
+"23"	"Caenorhabditis briggsae"	"Caenorhabditis brenneri"	"Caenorhabditis"	"1.0"	0.51216453841427	"6238"	"135651"	21568
+"24"	"Caenorhabditis briggsae"	"Caenorhabditis elegans"	"Caenorhabditis"	"51.3"	0.502839321113452	"6238"	"6239"	21473
+"25"	"Caenorhabditis briggsae"	"Caenorhabditis remanei"	"Caenorhabditis"	"1.0"	0.451881229797518	"6238"	"31234"	21573
+"26"	"Caenorhabditis elegans"	"Caenorhabditis brenneri"	"Caenorhabditis"	"1.0"	0.458474599952236	"6239"	"135651"	26156
+"27"	"Caenorhabditis elegans"	"Caenorhabditis briggsae"	"Caenorhabditis"	"51.3"	0.444587434756629	"6239"	"6238"	26176
+"28"	"Caenorhabditis elegans"	"Caenorhabditis remanei"	"Caenorhabditis"	"1.0"	0.419401121025147	"6239"	"31234"	26164
+"29"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila ananassae"	"Drosophila"	"24.9"	0.42556567190599	"46245"	"7217"	16740
+"30"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila erecta"	"Drosophila"	"24.9"	0.423132096758869	"46245"	"7220"	16739
+"31"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.488140664613259	"46245"	"7222"	16726
+"32"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila melanogaster"	"Drosophila"	"24.9"	0.419525719459751	"46245"	"7227"	16659
+"33"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.484254109106519	"46245"	"7230"	16732
+"34"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila persimilis"	"Drosophila"	"0.9"	0.0979559664263001	"46245"	"7234"	16749
+"35"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila sechellia"	"Drosophila"	"24.9"	0.429757213157844	"46245"	"7238"	16740
+"36"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila simulans"	"Drosophila"	"24.9"	0.446210869072729	"46245"	"7240"	16734
+"37"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila virilis"	"Drosophila"	"39.2"	0.471125523223982	"46245"	"7244"	16724
+"38"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.460535135656207	"46245"	"7260"	16735
+"39"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila yakuba"	"Drosophila"	"24.9"	0.419134894759205	"46245"	"7245"	16740
+"40"	"Drosophila grimshawi"	"Drosophila ananassae"	"Drosophila"	"39.2"	0.450908137167648	"7222"	"7217"	14726
+"41"	"Drosophila grimshawi"	"Drosophila erecta"	"Drosophila"	"39.2"	0.454873820190278	"7222"	"7220"	14730
+"42"	"Drosophila grimshawi"	"Drosophila melanogaster"	"Drosophila"	"39.2"	0.449212495734111	"7222"	"7227"	14645
+"43"	"Drosophila grimshawi"	"Drosophila mojavensis"	"Drosophila"	"32.2"	0.352694020307803	"7222"	"7230"	14702
+"44"	"Drosophila grimshawi"	"Drosophila persimilis"	"Drosophila"	"39.2"	0.451063042094457	"7222"	"7234"	14720
+"45"	"Drosophila grimshawi"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"39.2"	0.442873208210635	"7222"	"46245"	14709
+"46"	"Drosophila grimshawi"	"Drosophila sechellia"	"Drosophila"	"39.2"	0.457781808180488	"7222"	"7238"	14732
+"47"	"Drosophila grimshawi"	"Drosophila simulans"	"Drosophila"	"39.2"	0.478869453155906	"7222"	"7240"	14724
+"48"	"Drosophila grimshawi"	"Drosophila virilis"	"Drosophila"	"32.2"	0.323431153975947	"7222"	"7244"	14719
+"49"	"Drosophila grimshawi"	"Drosophila willistoni"	"Drosophila"	"39.2"	0.447431906004068	"7222"	"7260"	14710
+"50"	"Drosophila grimshawi"	"Drosophila yakuba"	"Drosophila"	"39.2"	0.452165786151972	"7222"	"7245"	14728
+"51"	"Drosophila mojavensis"	"Drosophila ananassae"	"Drosophila"	"39.2"	0.464831478203154	"7230"	"7217"	14477
+"52"	"Drosophila mojavensis"	"Drosophila erecta"	"Drosophila"	"39.2"	0.469666253741083	"7230"	"7220"	14495
+"53"	"Drosophila mojavensis"	"Drosophila grimshawi"	"Drosophila"	"32.2"	0.374865762699859	"7230"	"7222"	14448
+"54"	"Drosophila mojavensis"	"Drosophila melanogaster"	"Drosophila"	"39.2"	0.466455457744054	"7230"	"7227"	14367
+"55"	"Drosophila mojavensis"	"Drosophila persimilis"	"Drosophila"	"39.2"	0.468666411381107	"7230"	"7234"	14464
+"56"	"Drosophila mojavensis"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"39.2"	0.460576651479001	"7230"	"46245"	14461
+"57"	"Drosophila mojavensis"	"Drosophila sechellia"	"Drosophila"	"39.2"	0.473926013590825	"7230"	"7238"	14481
+"58"	"Drosophila mojavensis"	"Drosophila simulans"	"Drosophila"	"39.2"	0.492853030311186	"7230"	"7240"	14481
+"59"	"Drosophila mojavensis"	"Drosophila virilis"	"Drosophila"	"18.5"	0.310893671332344	"7230"	"7244"	14477
+"60"	"Drosophila mojavensis"	"Drosophila willistoni"	"Drosophila"	"39.2"	0.463607170502667	"7230"	"7260"	14444
+"61"	"Drosophila mojavensis"	"Drosophila yakuba"	"Drosophila"	"39.2"	0.467341201705022	"7230"	"7245"	14475
+"62"	"Drosophila yakuba"	"Drosophila ananassae"	"Drosophila"	"44.2"	0.371553171493979	"7245"	"7217"	15938
+"63"	"Drosophila yakuba"	"Drosophila erecta"	"Drosophila"	"10.4"	0.175359883468085	"7245"	"7220"	15938
+"64"	"Drosophila yakuba"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.501248953307695	"7245"	"7222"	15917
+"65"	"Drosophila yakuba"	"Drosophila melanogaster"	"Drosophila"	"5.6"	0.196518897633385	"7245"	"7227"	15859
+"66"	"Drosophila yakuba"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.492810173807591	"7245"	"7230"	15924
+"67"	"Drosophila yakuba"	"Drosophila persimilis"	"Drosophila"	"24.9"	0.433882366734397	"7245"	"7234"	15929
+"68"	"Drosophila yakuba"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"24.9"	0.423581466103951	"7245"	"46245"	15925
+"69"	"Drosophila yakuba"	"Drosophila sechellia"	"Drosophila"	"6.1"	0.204870979415099	"7245"	"7238"	15937
+"70"	"Drosophila yakuba"	"Drosophila simulans"	"Drosophila"	"4.9"	0.225785316614665	"7245"	"7240"	15937
+"71"	"Drosophila yakuba"	"Drosophila virilis"	"Drosophila"	"39.2"	0.481018541833019	"7245"	"7244"	15928
+"72"	"Drosophila yakuba"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.471153747652769	"7245"	"7260"	15923
+"73"	"Drosophila melanogaster"	"Drosophila ananassae"	"Drosophila"	"44.2"	0.316846782609356	"7227"	"7217"	20039
+"74"	"Drosophila melanogaster"	"Drosophila erecta"	"Drosophila"	"12.8"	0.153728391919213	"7227"	"7220"	20037
+"75"	"Drosophila melanogaster"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.430031478023712	"7227"	"7222"	20032
+"76"	"Drosophila melanogaster"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.426602095255737	"7227"	"7230"	20035
+"77"	"Drosophila melanogaster"	"Drosophila persimilis"	"Drosophila"	"24.9"	0.376712962311487	"7227"	"7234"	20037
+"78"	"Drosophila melanogaster"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"24.9"	0.362177720867936	"7227"	"46245"	20027
+"79"	"Drosophila melanogaster"	"Drosophila sechellia"	"Drosophila"	"2.3"	0.107278384399603	"7227"	"7238"	20043
+"80"	"Drosophila melanogaster"	"Drosophila simulans"	"Drosophila"	"2.3"	0.137366894724933	"7227"	"7240"	20041
+"81"	"Drosophila melanogaster"	"Drosophila virilis"	"Drosophila"	"39.2"	0.41458919734722	"7227"	"7244"	20033
+"82"	"Drosophila melanogaster"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.405872533043808	"7227"	"7260"	20030
+"83"	"Drosophila melanogaster"	"Drosophila yakuba"	"Drosophila"	"5.6"	0.151131784971113	"7227"	"7245"	20040
+"84"	"Drosophila ananassae"	"Drosophila erecta"	"Drosophila"	"44.2"	0.355345050257388	"7217"	"7220"	14954
+"85"	"Drosophila ananassae"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.48070368276855	"7217"	"7222"	14944
+"86"	"Drosophila ananassae"	"Drosophila melanogaster"	"Drosophila"	"44.2"	0.354035775465691	"7217"	"7227"	14911
+"87"	"Drosophila ananassae"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.474381923074829	"7217"	"7230"	14941
+"88"	"Drosophila ananassae"	"Drosophila persimilis"	"Drosophila"	"24.9"	0.41815965965609	"7217"	"7234"	14958
+"89"	"Drosophila ananassae"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"24.9"	0.408314019928235	"7217"	"46245"	14951
+"90"	"Drosophila ananassae"	"Drosophila sechellia"	"Drosophila"	"44.2"	0.361123062661942	"7217"	"7238"	14961
+"91"	"Drosophila ananassae"	"Drosophila simulans"	"Drosophila"	"44.2"	0.383471380849384	"7217"	"7240"	14957
+"92"	"Drosophila ananassae"	"Drosophila virilis"	"Drosophila"	"39.2"	0.462942749767313	"7217"	"7244"	14950
+"93"	"Drosophila ananassae"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.451311964962681	"7217"	"7260"	14943
+"94"	"Drosophila ananassae"	"Drosophila yakuba"	"Drosophila"	"44.2"	0.352614093518994	"7217"	"7245"	14956
+"95"	"Drosophila simulans"	"Drosophila ananassae"	"Drosophila"	"44.2"	0.369939570479119	"7240"	"7217"	15333
+"96"	"Drosophila simulans"	"Drosophila erecta"	"Drosophila"	"12.8"	0.193959166455625	"7240"	"7220"	15345
+"97"	"Drosophila simulans"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.492096382069071	"7240"	"7222"	15325
+"98"	"Drosophila simulans"	"Drosophila melanogaster"	"Drosophila"	"2.3"	0.132856734733579	"7240"	"7227"	15299
+"99"	"Drosophila simulans"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.486243007107291	"7240"	"7230"	15334
+"100"	"Drosophila simulans"	"Drosophila persimilis"	"Drosophila"	"24.9"	0.429937953089867	"7240"	"7234"	15333
+"101"	"Drosophila simulans"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"24.9"	0.418275202459545	"7240"	"46245"	15332
+"102"	"Drosophila simulans"	"Drosophila virilis"	"Drosophila"	"39.2"	0.475698322780788	"7240"	"7244"	15329
+"103"	"Drosophila simulans"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.465299034028779	"7240"	"7260"	15331
+"104"	"Drosophila simulans"	"Drosophila yakuba"	"Drosophila"	"4.9"	0.189734010812931	"7240"	"7245"	15344
+"105"	"Drosophila willistoni"	"Drosophila ananassae"	"Drosophila"	"49.3"	0.461235095693958	"7260"	"7217"	15419
+"106"	"Drosophila willistoni"	"Drosophila erecta"	"Drosophila"	"49.3"	0.465323857487747	"7260"	"7220"	15423
+"107"	"Drosophila willistoni"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.488425713402462	"7260"	"7222"	15413
+"108"	"Drosophila willistoni"	"Drosophila melanogaster"	"Drosophila"	"49.3"	0.46530533753155	"7260"	"7227"	15328
+"109"	"Drosophila willistoni"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.478380267187468	"7260"	"7230"	15413
+"110"	"Drosophila willistoni"	"Drosophila persimilis"	"Drosophila"	"49.3"	0.464209425370333	"7260"	"7234"	15420
+"111"	"Drosophila willistoni"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"49.3"	0.455192938531523	"7260"	"46245"	15417
+"112"	"Drosophila willistoni"	"Drosophila sechellia"	"Drosophila"	"49.3"	0.470714290096738	"7260"	"7238"	15416
+"113"	"Drosophila willistoni"	"Drosophila simulans"	"Drosophila"	"49.3"	0.487746974408545	"7260"	"7240"	15429
+"114"	"Drosophila willistoni"	"Drosophila virilis"	"Drosophila"	"39.2"	0.468728304236343	"7260"	"7244"	15409
+"115"	"Drosophila willistoni"	"Drosophila yakuba"	"Drosophila"	"49.3"	0.460147194535481	"7260"	"7245"	15421
+"116"	"Drosophila erecta"	"Drosophila ananassae"	"Drosophila"	"44.2"	0.362243839408285	"7220"	"7217"	14866
+"117"	"Drosophila erecta"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.486244004374317	"7220"	"7222"	14843
+"118"	"Drosophila erecta"	"Drosophila melanogaster"	"Drosophila"	"12.8"	0.184322953787928	"7220"	"7227"	14780
+"119"	"Drosophila erecta"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.479914398278335	"7220"	"7230"	14847
+"120"	"Drosophila erecta"	"Drosophila persimilis"	"Drosophila"	"24.9"	0.422246762721677	"7220"	"7234"	14864
+"121"	"Drosophila erecta"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"24.9"	0.412715478443758	"7220"	"46245"	14864
+"122"	"Drosophila erecta"	"Drosophila simulans"	"Drosophila"	"12.8"	0.213463950612575	"7220"	"7240"	14868
+"123"	"Drosophila erecta"	"Drosophila virilis"	"Drosophila"	"39.2"	0.469297977361223	"7220"	"7244"	14852
+"124"	"Drosophila erecta"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.458845593481159	"7220"	"7260"	14853
+"125"	"Drosophila erecta"	"Drosophila yakuba"	"Drosophila"	"10.4"	0.159054494917831	"7220"	"7245"	14874
+"126"	"Drosophila virilis"	"Drosophila ananassae"	"Drosophila"	"39.2"	0.451297056741001	"7244"	"7217"	14430
+"127"	"Drosophila virilis"	"Drosophila erecta"	"Drosophila"	"39.2"	0.454143197682213	"7244"	"7220"	14439
+"128"	"Drosophila virilis"	"Drosophila grimshawi"	"Drosophila"	"32.2"	0.344385189860299	"7244"	"7222"	14416
+"129"	"Drosophila virilis"	"Drosophila melanogaster"	"Drosophila"	"39.2"	0.451313207061823	"7244"	"7227"	14340
+"130"	"Drosophila virilis"	"Drosophila mojavensis"	"Drosophila"	"18.5"	0.310200145916285	"7244"	"7230"	14423
+"131"	"Drosophila virilis"	"Drosophila persimilis"	"Drosophila"	"39.2"	0.454640314748267	"7244"	"7234"	14429
+"132"	"Drosophila virilis"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"39.2"	0.443089770790469	"7244"	"46245"	14419
+"133"	"Drosophila virilis"	"Drosophila sechellia"	"Drosophila"	"39.2"	0.458155380623961	"7244"	"7238"	14432
+"134"	"Drosophila virilis"	"Drosophila simulans"	"Drosophila"	"39.2"	0.480700800833636	"7244"	"7240"	14434
+"135"	"Drosophila virilis"	"Drosophila willistoni"	"Drosophila"	"39.2"	0.44728200563375	"7244"	"7260"	14422
+"136"	"Drosophila virilis"	"Drosophila yakuba"	"Drosophila"	"39.2"	0.45157049033825	"7244"	"7245"	14431
+"137"	"Drosophila sechellia"	"Drosophila ananassae"	"Drosophila"	"44.2"	0.366321067801254	"7238"	"7217"	16118
+"138"	"Drosophila sechellia"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.48685922738187	"7238"	"7222"	16104
+"139"	"Drosophila sechellia"	"Drosophila melanogaster"	"Drosophila"	"2.3"	0.133449680969091	"7238"	"7227"	16051
+"140"	"Drosophila sechellia"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.482864107595884	"7238"	"7230"	16112
+"141"	"Drosophila sechellia"	"Drosophila persimilis"	"Drosophila"	"24.9"	0.427050720884131	"7238"	"7234"	16118
+"142"	"Drosophila sechellia"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"24.9"	0.414874213160135	"7238"	"46245"	16109
+"143"	"Drosophila sechellia"	"Drosophila virilis"	"Drosophila"	"39.2"	0.471984479324437	"7238"	"7244"	16113
+"144"	"Drosophila sechellia"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.462161580351089	"7238"	"7260"	16117
+"145"	"Drosophila sechellia"	"Drosophila yakuba"	"Drosophila"	"6.1"	0.191247944401289	"7238"	"7245"	16128
+"146"	"Drosophila persimilis"	"Drosophila ananassae"	"Drosophila"	"24.9"	0.430549447978463	"7234"	"7217"	16733
+"147"	"Drosophila persimilis"	"Drosophila erecta"	"Drosophila"	"24.9"	0.430541626098732	"7234"	"7220"	16733
+"148"	"Drosophila persimilis"	"Drosophila grimshawi"	"Drosophila"	"39.2"	0.493321728994136	"7234"	"7222"	16715
+"149"	"Drosophila persimilis"	"Drosophila melanogaster"	"Drosophila"	"24.9"	0.426449849441797	"7234"	"7227"	16643
+"150"	"Drosophila persimilis"	"Drosophila mojavensis"	"Drosophila"	"39.2"	0.491011381770765	"7234"	"7230"	16721
+"151"	"Drosophila persimilis"	"Drosophila pseudoobscura pseudoobscura"	"Drosophila"	"0.9"	0.0952225508447272	"7234"	"46245"	16744
+"152"	"Drosophila persimilis"	"Drosophila sechellia"	"Drosophila"	"24.9"	0.436092252590612	"7234"	"7238"	16736
+"153"	"Drosophila persimilis"	"Drosophila simulans"	"Drosophila"	"24.9"	0.459256647531277	"7234"	"7240"	16730
+"154"	"Drosophila persimilis"	"Drosophila virilis"	"Drosophila"	"39.2"	0.477453791729529	"7234"	"7244"	16722
+"155"	"Drosophila persimilis"	"Drosophila willistoni"	"Drosophila"	"49.3"	0.466322885592125	"7234"	"7260"	16724
+"156"	"Drosophila persimilis"	"Drosophila yakuba"	"Drosophila"	"24.9"	0.426932028194579	"7234"	"7245"	16734
+"157"	"Zea mays"	"Brachypodium distachyon"	"Poaceae"	"38.0"	0.456861266740325	"4577"	"15368"	58047
+"158"	"Zea mays"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"38.0"	0.479098112895372	"4577"	"112509"	57720
+"159"	"Zea mays"	"Oryza brachyantha"	"Poaceae"	"38.0"	0.438375597542817	"4577"	"4533"	58139
+"160"	"Zea mays"	"Oryza glaberrima"	"Poaceae"	"38.0"	0.463428372376264	"4577"	"4538"	58070
+"161"	"Zea mays"	"Oryza sativa Indica Group"	"Poaceae"	"38.0"	0.446636971358544	"4577"	"39946"	58077
+"162"	"Zea mays"	"Oryza sativa Japonica Group"	"Poaceae"	"38.0"	0.43978879002688	"4577"	"39947"	57878
+"163"	"Zea mays"	"Sorghum bicolor"	"Poaceae"	"8.9"	0.339519236553373	"4577"	"4558"	58085
+"164"	"Zea mays"	"Triticum aestivum"	"Poaceae"	"38.0"	0.451726812917373	"4577"	"4565"	57820
+"165"	"Zea mays"	"Triticum urartu"	"Poaceae"	"38.0"	0.51581906867925	"4577"	"4572"	58133
+"166"	"Oryza sativa Japonica Group"	"Brachypodium distachyon"	"Poaceae"	"41.5"	0.654339056049217	"39947"	"15368"	62887
+"167"	"Oryza sativa Japonica Group"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"41.5"	0.666887841501616	"39947"	"112509"	62223
+"168"	"Oryza sativa Japonica Group"	"Oryza brachyantha"	"Poaceae"	"15.0"	0.531416994431927	"39947"	"4533"	62982
+"169"	"Oryza sativa Japonica Group"	"Oryza glaberrima"	"Poaceae"	"0.6"	0.313972109031842	"39947"	"4538"	62968
+"170"	"Oryza sativa Japonica Group"	"Setaria italica"	"Poaceae"	"38.0"	0.650010606067603	"39947"	"4555"	62853
+"171"	"Oryza sativa Japonica Group"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.658016286750791	"39947"	"4558"	62908
+"172"	"Oryza sativa Japonica Group"	"Triticum aestivum"	"Poaceae"	"41.5"	0.656177815630133	"39947"	"4565"	62409
+"173"	"Oryza sativa Japonica Group"	"Triticum urartu"	"Poaceae"	"41.5"	0.699716621735592	"39947"	"4572"	63006
+"174"	"Oryza sativa Japonica Group"	"Zea mays"	"Poaceae"	"38.0"	0.682899655567087	"39947"	"4577"	62584
+"175"	"Sorghum bicolor"	"Brachypodium distachyon"	"Poaceae"	"38.0"	0.547153269440384	"4558"	"15368"	32713
+"176"	"Sorghum bicolor"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"38.0"	0.560658190512072	"4558"	"112509"	32593
+"177"	"Sorghum bicolor"	"Oryza brachyantha"	"Poaceae"	"38.0"	0.525851717158689	"4558"	"4533"	32727
+"178"	"Sorghum bicolor"	"Oryza glaberrima"	"Poaceae"	"38.0"	0.541268160365809	"4558"	"4538"	32709
+"179"	"Sorghum bicolor"	"Oryza sativa Indica Group"	"Poaceae"	"38.0"	0.52300983215355	"4558"	"39946"	32705
+"180"	"Sorghum bicolor"	"Oryza sativa Japonica Group"	"Poaceae"	"38.0"	0.507097240601797	"4558"	"39947"	32623
+"181"	"Sorghum bicolor"	"Triticum aestivum"	"Poaceae"	"38.0"	0.533441248625956	"4558"	"4565"	32650
+"182"	"Sorghum bicolor"	"Triticum urartu"	"Poaceae"	"38.0"	0.594940301557992	"4558"	"4572"	32744
+"183"	"Sorghum bicolor"	"Zea mays"	"Poaceae"	"8.9"	0.408519599285584	"4558"	"4577"	32687
+"184"	"Brachypodium distachyon"	"Oryza brachyantha"	"Poaceae"	"41.5"	0.437009508121677	"15368"	"4533"	29906
+"185"	"Brachypodium distachyon"	"Oryza glaberrima"	"Poaceae"	"41.5"	0.461204348843278	"15368"	"4538"	29893
+"186"	"Brachypodium distachyon"	"Oryza sativa Indica Group"	"Poaceae"	"41.5"	0.440840121116296	"15368"	"39946"	29904
+"187"	"Brachypodium distachyon"	"Oryza sativa Japonica Group"	"Poaceae"	"41.5"	0.431466111764234	"15368"	"39947"	29871
+"188"	"Brachypodium distachyon"	"Setaria italica"	"Poaceae"	"38.0"	0.445413504211222	"15368"	"4555"	29896
+"189"	"Brachypodium distachyon"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.483201856646551	"15368"	"4558"	29904
+"190"	"Brachypodium distachyon"	"Zea mays"	"Poaceae"	"38.0"	0.4785584282776	"15368"	"4577"	29873
+"191"	"Oryza sativa Indica Group"	"Brachypodium distachyon"	"Poaceae"	"41.5"	0.557279115137926	"39946"	"15368"	37317
+"192"	"Oryza sativa Indica Group"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"41.5"	0.575482954368939	"39946"	"112509"	37118
+"193"	"Oryza sativa Indica Group"	"Oryza brachyantha"	"Poaceae"	"15.0"	0.422148102308731	"39946"	"4533"	37338
+"194"	"Oryza sativa Indica Group"	"Oryza glaberrima"	"Poaceae"	"0.6"	0.215894187443695	"39946"	"4538"	37347
+"195"	"Oryza sativa Indica Group"	"Setaria italica"	"Poaceae"	"38.0"	0.543138033502743	"39946"	"4555"	37299
+"196"	"Oryza sativa Indica Group"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.57322745035223	"39946"	"4558"	37326
+"197"	"Oryza sativa Indica Group"	"Triticum aestivum"	"Poaceae"	"41.5"	0.551435785245422	"39946"	"4565"	37205
+"198"	"Oryza sativa Indica Group"	"Triticum urartu"	"Poaceae"	"41.5"	0.613780975014302	"39946"	"4572"	37344
+"199"	"Oryza sativa Indica Group"	"Zea mays"	"Poaceae"	"38.0"	0.583615582352717	"39946"	"4577"	37251
+"200"	"Triticum aestivum"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"12.2"	0.208120426927686	"4565"	"112509"	94260
+"201"	"Triticum aestivum"	"Oryza brachyantha"	"Poaceae"	"41.5"	0.370132986284942	"4565"	"4533"	94403
+"202"	"Triticum aestivum"	"Oryza glaberrima"	"Poaceae"	"41.5"	0.380846708939262	"4565"	"4538"	94389
+"203"	"Triticum aestivum"	"Oryza sativa Indica Group"	"Poaceae"	"41.5"	0.359893407753816	"4565"	"39946"	94390
+"204"	"Triticum aestivum"	"Oryza sativa Japonica Group"	"Poaceae"	"41.5"	0.342133885212036	"4565"	"39947"	94360
+"205"	"Triticum aestivum"	"Setaria italica"	"Poaceae"	"38.0"	0.36013908937639	"4565"	"4555"	94403
+"206"	"Triticum aestivum"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.389225771868113	"4565"	"4558"	94391
+"207"	"Triticum aestivum"	"Zea mays"	"Poaceae"	"38.0"	0.389484661313321	"4565"	"4577"	94331
+"208"	"Hordeum vulgare subsp. vulgare"	"Oryza brachyantha"	"Poaceae"	"41.5"	0.401237809627204	"112509"	"4533"	52246
+"209"	"Hordeum vulgare subsp. vulgare"	"Oryza glaberrima"	"Poaceae"	"41.5"	0.426338165456219	"112509"	"4538"	52209
+"210"	"Hordeum vulgare subsp. vulgare"	"Oryza sativa Indica Group"	"Poaceae"	"41.5"	0.401467332222135	"112509"	"39946"	52235
+"211"	"Hordeum vulgare subsp. vulgare"	"Oryza sativa Japonica Group"	"Poaceae"	"41.5"	0.397464453348731	"112509"	"39947"	52143
+"212"	"Hordeum vulgare subsp. vulgare"	"Setaria italica"	"Poaceae"	"38.0"	0.401985171549487	"112509"	"4555"	52219
+"213"	"Hordeum vulgare subsp. vulgare"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.44010563603999	"112509"	"4558"	52230
+"214"	"Hordeum vulgare subsp. vulgare"	"Triticum aestivum"	"Poaceae"	"12.2"	0.173616967542258	"112509"	"4565"	52136
+"215"	"Hordeum vulgare subsp. vulgare"	"Triticum urartu"	"Poaceae"	"12.2"	0.276946677984525	"112509"	"4572"	52255
+"216"	"Hordeum vulgare subsp. vulgare"	"Zea mays"	"Poaceae"	"38.0"	0.439296356602612	"112509"	"4577"	52155
+"217"	"Triticum urartu"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"12.2"	0.389494770536078	"4572"	"112509"	33096
+"218"	"Triticum urartu"	"Oryza brachyantha"	"Poaceae"	"41.5"	0.55249107194741	"4572"	"4533"	33276
+"219"	"Triticum urartu"	"Oryza glaberrima"	"Poaceae"	"41.5"	0.564512355831402	"4572"	"4538"	33253
+"220"	"Triticum urartu"	"Oryza sativa Indica Group"	"Poaceae"	"41.5"	0.545298780004797	"4572"	"39946"	33262
+"221"	"Triticum urartu"	"Oryza sativa Japonica Group"	"Poaceae"	"41.5"	0.534625745607313	"4572"	"39947"	33193
+"222"	"Triticum urartu"	"Setaria italica"	"Poaceae"	"38.0"	0.545482832732176	"4572"	"4555"	33249
+"223"	"Triticum urartu"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.569565355037724	"4572"	"4558"	33262
+"224"	"Triticum urartu"	"Zea mays"	"Poaceae"	"38.0"	0.578161183052541	"4572"	"4577"	33202
+"225"	"Oryza glaberrima"	"Brachypodium distachyon"	"Poaceae"	"41.5"	0.534803506609154	"4538"	"15368"	31729
+"226"	"Oryza glaberrima"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"41.5"	0.550532167419912	"4538"	"112509"	31508
+"227"	"Oryza glaberrima"	"Oryza brachyantha"	"Poaceae"	"15.0"	0.395310321526213	"4538"	"4533"	31737
+"228"	"Oryza glaberrima"	"Oryza sativa Indica Group"	"Poaceae"	"0.6"	0.157232219150735	"4538"	"39946"	31756
+"229"	"Oryza glaberrima"	"Oryza sativa Japonica Group"	"Poaceae"	"0.6"	0.096291479596381	"4538"	"39947"	31774
+"230"	"Oryza glaberrima"	"Setaria italica"	"Poaceae"	"38.0"	0.524433742654303	"4538"	"4555"	31734
+"231"	"Oryza glaberrima"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.555297926337185	"4538"	"4558"	31739
+"232"	"Oryza glaberrima"	"Triticum aestivum"	"Poaceae"	"41.5"	0.530460913166234	"4538"	"4565"	31570
+"233"	"Oryza glaberrima"	"Triticum urartu"	"Poaceae"	"41.5"	0.594852517892407	"4538"	"4572"	31760
+"234"	"Oryza glaberrima"	"Zea mays"	"Poaceae"	"38.0"	0.560485760611632	"4538"	"4577"	31673
+"235"	"Oryza brachyantha"	"Brachypodium distachyon"	"Poaceae"	"41.5"	0.504879882224443	"4533"	"15368"	31694
+"236"	"Oryza brachyantha"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"41.5"	0.52623003654499	"4533"	"112509"	31392
+"237"	"Oryza brachyantha"	"Oryza glaberrima"	"Poaceae"	"15.0"	0.395462332605045	"4533"	"4538"	31722
+"238"	"Oryza brachyantha"	"Oryza sativa Indica Group"	"Poaceae"	"15.0"	0.372645277731492	"4533"	"39946"	31766
+"239"	"Oryza brachyantha"	"Oryza sativa Japonica Group"	"Poaceae"	"15.0"	0.359887709315809	"4533"	"39947"	31657
+"240"	"Oryza brachyantha"	"Setaria italica"	"Poaceae"	"38.0"	0.493311350444698	"4533"	"4555"	31669
+"241"	"Oryza brachyantha"	"Sorghum bicolor"	"Poaceae"	"38.0"	0.523494630454637	"4533"	"4558"	31721
+"242"	"Oryza brachyantha"	"Triticum aestivum"	"Poaceae"	"41.5"	0.506519624851421	"4533"	"4565"	31473
+"243"	"Oryza brachyantha"	"Triticum urartu"	"Poaceae"	"41.5"	0.56905871277698	"4533"	"4572"	31749
+"244"	"Oryza brachyantha"	"Zea mays"	"Poaceae"	"38.0"	0.523464420171285	"4533"	"4577"	31604
+"245"	"Setaria italica"	"Brachypodium distachyon"	"Poaceae"	"38.0"	0.51317664648224	"4555"	"15368"	38882
+"246"	"Setaria italica"	"Hordeum vulgare subsp. vulgare"	"Poaceae"	"38.0"	0.527689201116624	"4555"	"112509"	38516
+"247"	"Setaria italica"	"Oryza brachyantha"	"Poaceae"	"38.0"	0.496038303171375	"4555"	"4533"	38938
+"248"	"Setaria italica"	"Oryza glaberrima"	"Poaceae"	"38.0"	0.5141636825444	"4555"	"4538"	38932
+"249"	"Setaria italica"	"Oryza sativa Indica Group"	"Poaceae"	"38.0"	0.495271611021842	"4555"	"39946"	38903
+"250"	"Setaria italica"	"Oryza sativa Japonica Group"	"Poaceae"	"38.0"	0.486570560985973	"4555"	"39947"	38714
+"251"	"Setaria italica"	"Triticum aestivum"	"Poaceae"	"38.0"	0.505557987134512	"4555"	"4565"	38569
+"252"	"Setaria italica"	"Triticum urartu"	"Poaceae"	"38.0"	0.566554057467659	"4555"	"4572"	38962
+"253"	"Macaca mulatta"	"Callithrix jacchus"	"Primates"	"44.2"	0.193812137895133	"9544"	"9483"	35535
+"254"	"Macaca mulatta"	"Gorilla gorilla gorilla"	"Primates"	"29.6"	0.171486832937464	"9544"	"9595"	35537
+"255"	"Macaca mulatta"	"Homo sapiens"	"Primates"	"29.6"	0.137769704285542	"9544"	"9606"	35537
+"256"	"Macaca mulatta"	"Macaca fascicularis"	"Primates"	"2.4"	0.171089428979578	"9544"	"9541"	35534
+"257"	"Macaca mulatta"	"Nomascus leucogenys"	"Primates"	"29.6"	0.172016778807986	"9544"	"61853"	35533
+"258"	"Macaca mulatta"	"Otolemur garnettii"	"Primates"	"77.5"	0.25840878469823	"9544"	"30611"	35532
+"259"	"Macaca mulatta"	"Pan troglodytes"	"Primates"	"29.6"	0.168523813460362	"9544"	"9598"	35533
+"260"	"Macaca mulatta"	"Pongo abelii"	"Primates"	"29.6"	0.159672467707146	"9544"	"9601"	35535
+"261"	"Gorilla gorilla gorilla"	"Callithrix jacchus"	"Primates"	"44.2"	0.213713725599181	"9595"	"9483"	27228
+"262"	"Gorilla gorilla gorilla"	"Homo sapiens"	"Primates"	"8.0"	0.128419469775598	"9595"	"9606"	27258
+"263"	"Gorilla gorilla gorilla"	"Macaca fascicularis"	"Primates"	"29.6"	0.228641492079354	"9595"	"9541"	27219
+"264"	"Gorilla gorilla gorilla"	"Macaca mulatta"	"Primates"	"29.6"	0.189080235455703	"9595"	"9544"	27238
+"265"	"Gorilla gorilla gorilla"	"Nomascus leucogenys"	"Primates"	"18.8"	0.172402230749817	"9595"	"61853"	27213
+"266"	"Gorilla gorilla gorilla"	"Otolemur garnettii"	"Primates"	"77.5"	0.276837249724369	"9595"	"30611"	27219
+"267"	"Gorilla gorilla gorilla"	"Pan troglodytes"	"Primates"	"8.0"	0.143553940766877	"9595"	"9598"	27216
+"268"	"Gorilla gorilla gorilla"	"Pongo abelii"	"Primates"	"15.1"	0.151853974846999	"9595"	"9601"	27235
+"269"	"Homo sapiens"	"Callithrix jacchus"	"Primates"	"44.2"	0.156346079315447	"9606"	"9483"	67842
+"270"	"Homo sapiens"	"Gorilla gorilla gorilla"	"Primates"	"8.0"	0.109681618051527	"9606"	"9595"	67840
+"271"	"Homo sapiens"	"Macaca fascicularis"	"Primates"	"29.6"	0.187053735209077	"9606"	"9541"	67795
+"272"	"Homo sapiens"	"Macaca mulatta"	"Primates"	"29.6"	0.134329761270765	"9606"	"9544"	67858
+"273"	"Homo sapiens"	"Nomascus leucogenys"	"Primates"	"18.8"	0.126904754342236	"9606"	"61853"	67822
+"274"	"Homo sapiens"	"Otolemur garnettii"	"Primates"	"77.5"	0.218230426389117	"9606"	"30611"	67780
+"275"	"Homo sapiens"	"Pan troglodytes"	"Primates"	"6.1"	0.107893758394794	"9606"	"9598"	67831
+"276"	"Homo sapiens"	"Pongo abelii"	"Primates"	"15.1"	0.114508827606997	"9606"	"9601"	67815
+"277"	"Otolemur garnettii"	"Callithrix jacchus"	"Primates"	"77.5"	0.239876715029041	"30611"	"9483"	19930
+"278"	"Otolemur garnettii"	"Gorilla gorilla gorilla"	"Primates"	"77.5"	0.241189263249189	"30611"	"9595"	19931
+"279"	"Otolemur garnettii"	"Homo sapiens"	"Primates"	"77.5"	0.216942645978172	"30611"	"9606"	19931
+"280"	"Otolemur garnettii"	"Macaca fascicularis"	"Primates"	"77.5"	0.272460923131202	"30611"	"9541"	19931
+"281"	"Otolemur garnettii"	"Macaca mulatta"	"Primates"	"77.5"	0.239243244485912	"30611"	"9544"	19931
+"282"	"Otolemur garnettii"	"Nomascus leucogenys"	"Primates"	"77.5"	0.242889496168116	"30611"	"61853"	19931
+"283"	"Otolemur garnettii"	"Pan troglodytes"	"Primates"	"77.5"	0.235573263848706	"30611"	"9598"	19931
+"284"	"Otolemur garnettii"	"Pongo abelii"	"Primates"	"77.5"	0.234105646689665	"30611"	"9601"	19931
+"285"	"Pan troglodytes"	"Callithrix jacchus"	"Primates"	"44.2"	0.191642236970271	"9598"	"9483"	20122
+"286"	"Pan troglodytes"	"Gorilla gorilla gorilla"	"Primates"	"8.0"	0.116245161101111	"9598"	"9595"	20123
+"287"	"Pan troglodytes"	"Homo sapiens"	"Primates"	"6.1"	0.0902180358685192	"9598"	"9606"	20126
+"288"	"Pan troglodytes"	"Macaca fascicularis"	"Primates"	"29.6"	0.202784581910712	"9598"	"9541"	20119
+"289"	"Pan troglodytes"	"Macaca mulatta"	"Primates"	"29.6"	0.163735489505636	"9598"	"9544"	20123
+"290"	"Pan troglodytes"	"Nomascus leucogenys"	"Primates"	"18.8"	0.139171716308514	"9598"	"61853"	20117
+"291"	"Pan troglodytes"	"Otolemur garnettii"	"Primates"	"77.5"	0.255083714565911	"9598"	"30611"	20115
+"292"	"Pan troglodytes"	"Pongo abelii"	"Primates"	"15.1"	0.128751198433812	"9598"	"9601"	20120
+"293"	"Macaca fascicularis"	"Callithrix jacchus"	"Primates"	"44.2"	0.182425103050382	"9541"	"9483"	17389
+"294"	"Macaca fascicularis"	"Gorilla gorilla gorilla"	"Primates"	"29.6"	0.147983004670472	"9541"	"9595"	17390
+"295"	"Macaca fascicularis"	"Homo sapiens"	"Primates"	"29.6"	0.130101544469461	"9541"	"9606"	17391
+"296"	"Macaca fascicularis"	"Macaca mulatta"	"Primates"	"2.4"	0.0945395764430365	"9541"	"9544"	17390
+"297"	"Macaca fascicularis"	"Nomascus leucogenys"	"Primates"	"29.6"	0.155271547613904	"9541"	"61853"	17385
+"298"	"Macaca fascicularis"	"Otolemur garnettii"	"Primates"	"77.5"	0.240433270236653	"9541"	"30611"	17385
+"299"	"Macaca fascicularis"	"Pan troglodytes"	"Primates"	"29.6"	0.149922227241463	"9541"	"9598"	17383
+"300"	"Macaca fascicularis"	"Pongo abelii"	"Primates"	"29.6"	0.145128917626138	"9541"	"9601"	17383
+"301"	"Pongo abelii"	"Callithrix jacchus"	"Primates"	"44.2"	0.199667653671624	"9601"	"9483"	22835
+"302"	"Pongo abelii"	"Gorilla gorilla gorilla"	"Primates"	"15.1"	0.143821507426043	"9601"	"9595"	22849
+"303"	"Pongo abelii"	"Homo sapiens"	"Primates"	"15.1"	0.123122714877006	"9601"	"9606"	22849
+"304"	"Pongo abelii"	"Macaca fascicularis"	"Primates"	"29.6"	0.210644438636816	"9601"	"9541"	22835
+"305"	"Pongo abelii"	"Macaca mulatta"	"Primates"	"29.6"	0.168719806260953	"9601"	"9544"	22841
+"306"	"Pongo abelii"	"Nomascus leucogenys"	"Primates"	"18.8"	0.157088279849988	"9601"	"61853"	22833
+"307"	"Pongo abelii"	"Otolemur garnettii"	"Primates"	"77.5"	0.261180623322615	"9601"	"30611"	22827
+"308"	"Pongo abelii"	"Pan troglodytes"	"Primates"	"15.1"	0.145202724384871	"9601"	"9598"	22828
+"309"	"Nomascus leucogenys"	"Callithrix jacchus"	"Primates"	"44.2"	0.188022398270765	"61853"	"9483"	19733
+"310"	"Nomascus leucogenys"	"Gorilla gorilla gorilla"	"Primates"	"18.8"	0.139928817069849	"61853"	"9595"	19733
+"311"	"Nomascus leucogenys"	"Homo sapiens"	"Primates"	"18.8"	0.117869704766227	"61853"	"9606"	19733
+"312"	"Nomascus leucogenys"	"Macaca fascicularis"	"Primates"	"29.6"	0.199861357561956	"61853"	"9541"	19733
+"313"	"Nomascus leucogenys"	"Macaca mulatta"	"Primates"	"29.6"	0.162881927737076	"61853"	"9544"	19733
+"314"	"Nomascus leucogenys"	"Otolemur garnettii"	"Primates"	"77.5"	0.249515633761496	"61853"	"30611"	19732
+"315"	"Nomascus leucogenys"	"Pan troglodytes"	"Primates"	"18.8"	0.131029281330891	"61853"	"9598"	19733
+"316"	"Nomascus leucogenys"	"Pongo abelii"	"Primates"	"18.8"	0.134031813857659	"61853"	"9601"	19733
+"317"	"Callithrix jacchus"	"Gorilla gorilla gorilla"	"Primates"	"44.2"	0.180743240639177	"9483"	"9595"	42022
+"318"	"Callithrix jacchus"	"Homo sapiens"	"Primates"	"44.2"	0.153942269896161	"9483"	"9606"	42024
+"319"	"Callithrix jacchus"	"Macaca fascicularis"	"Primates"	"44.2"	0.224200870896378	"9483"	"9541"	42018
+"320"	"Callithrix jacchus"	"Macaca mulatta"	"Primates"	"44.2"	0.179131706384553	"9483"	"9544"	42024
+"321"	"Callithrix jacchus"	"Nomascus leucogenys"	"Primates"	"44.2"	0.178955261189373	"9483"	"61853"	42017
+"322"	"Callithrix jacchus"	"Otolemur garnettii"	"Primates"	"77.5"	0.236556924964596	"9483"	"30611"	42010
+"323"	"Callithrix jacchus"	"Pan troglodytes"	"Primates"	"44.2"	0.177229666936141	"9483"	"9598"	42012
+"324"	"Callithrix jacchus"	"Pongo abelii"	"Primates"	"44.2"	0.172580006709866	"9483"	"9601"	42015

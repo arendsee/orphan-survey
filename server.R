@@ -2,7 +2,7 @@ library(shiny)
 library(ggvis)
 source('global.R')
 
-maketip <- function(x, dat){
+maketip_tab1 <- function(x, dat){
     s <- orphan.data[orphan.data$key == x$key]
     paste0("<b>", s$sciname, "</b><br>",
            "Family: <b>", s$family, "</b><br>",
@@ -14,12 +14,22 @@ maketip <- function(x, dat){
            )
 }
 
+maketip_tab2 <- function(x, dat){
+    s <- ages[ages$key == x$key]
+    paste0("Taxon A: <b>", s$taxon_a, "</b><br>",
+           "Taxon B: <b>", s$taxon_b, "</b><br>",
+           "Family: <b>", s$family, "</b><br>",
+           "Total proteins: <b>", s$N, "</b><br>",
+           "Divergence age (Mya): <b>", s$age, "<br>",
+           "Distance to nearest neighbor: <b>", signif(s$distance, 3), "<br>"
+           )
+}
+
 # Define server logic required to draw a histogram
 shinyServer(
     function(input, output) {
 
-
-        vis <- reactive({
+        vis.tab1 <- reactive({
             fs <- input$fontsize
             dat <- orphan.data[threshold == input$threshold & id == input$id]
             i <- which(dat$family %in% input$families)
@@ -65,7 +75,7 @@ shinyServer(
                                             legend = list(y = 100),
                                             labels=list(fontSize = fs),
                                             title=list(fontSize = fs + 2))) %>%
-                add_tooltip(maketip, 'hover') %>%
+                add_tooltip(maketip_tab1, 'hover') %>%
                 add_axis('x',
                          title = xlab,
                          properties = axis_props(title=list(fontSize=fs + 2),
@@ -80,6 +90,23 @@ shinyServer(
                 set_options(duration = 0)
         })
 
-        vis %>% bind_shiny('mainplot')
+        vis.tab2 <- reactive({
+            i <- which(ages$family %in% input$families_ages)
+            dat <- ages[i, ]
+            g <- dat %>%
+                ggvis(~distance, ~age) %>% 
+                layer_points(size := 100,
+                             fill = ~factor(family),
+                             stroke = ~factor(family),
+                             strokeWidth := 2,
+                             key := ~key,
+                             size.hover := 200,
+                             fillOpacity.hover := .75,
+                             fillOpacity := .50) %>%
+                add_tooltip(maketip_tab2, 'hover')
+        })
+
+        vis.tab1 %>% bind_shiny('mainplot_tab1')
+        vis.tab2 %>% bind_shiny('mainplot_tab2')
     }
 )
