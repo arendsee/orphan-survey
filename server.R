@@ -103,6 +103,7 @@ shinyServer(
                              size.hover := 200,
                              fillOpacity.hover := .75,
                              fillOpacity := .50) %>%
+                add_legend(c('fill', 'stroke'), title='Family') %>%
                 add_tooltip(maketip_tab2, 'hover')
         })
 

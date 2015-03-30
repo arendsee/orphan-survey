@@ -25,7 +25,7 @@ shinyUI(navbarPage("Orphan Survey",
             )
         )),
     tabPanel('Distance to age',
-        fluidPage(titlePanel('Orphan Survey'),
+        fluidPage(titlePanel('Evolutionary distance versus time since divergence'),
             sidebarLayout(
                 sidebarPanel(
                     fluidRow(column(6,
