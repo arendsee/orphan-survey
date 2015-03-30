@@ -104,6 +104,8 @@ shinyServer(
                              fillOpacity.hover := .75,
                              fillOpacity := .50) %>%
                 add_legend(c('fill', 'stroke'), title='Family') %>%
+                add_axis('x', title = 'Evolutionary distance') %>%
+                add_axis('y', title = 'Divergence time (Mya)') %>%
                 add_tooltip(maketip_tab2, 'hover')
         })
 
