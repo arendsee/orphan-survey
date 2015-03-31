@@ -95,10 +95,10 @@ shinyServer(
             dat <- ages[i, ]
             g <- dat %>%
                 ggvis(~distance, ~age) %>% 
-                layer_points(size := 100,
+                layer_points(size := 50,
                              fill = ~factor(family),
                              stroke = ~factor(family),
-                             strokeWidth := 2,
+                             strokeWidth := 1,
                              key := ~key,
                              size.hover := 200,
                              fillOpacity.hover := .75,
